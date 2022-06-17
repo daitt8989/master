@@ -103,7 +103,7 @@ html {
     background-color: #ccc;
     margin-top: 46px;
     padding-top: 50%;
-    background: url("../../assets/img/slider/slider1.png") top center / cover    no-repeat;
+    background: url("./assets/img/slider/slider1.png") top center / cover    no-repeat;
     position: relative;
 }
 
@@ -186,7 +186,7 @@ html {
 
 #det > #det2 {
     position: absolute;
-    background: url("/assets/img/khacbiet.png") center / cover    no-repeat;
+    background: url("./assets/img/khacbiet.png") center / cover    no-repeat;
     width: calc(100% - 600px);
     height: 100%;
     left: 50%;
@@ -209,7 +209,7 @@ html {
 #img-ds {
     width: 100%;
     height: 100%;
-    background: url("/assets/img/dskhoahoc-01.png") center / cover no-repeat;
+    background: url("./assets/img/dskhoahoc-01.png") center / cover no-repeat;
 }
 
 #hocphi {
@@ -237,7 +237,7 @@ html {
     bottom: 0;
     width: 42.5%;
     height: 100%;
-    background: url("/assets/img/chinhsach-01.png") center / cover no-repeat;
+    background: url("./assets/img/chinhsach-01.png") center / cover no-repeat;
     background-size: 100%;
 
 }
@@ -248,7 +248,7 @@ html {
     bottom: 0;
     width: 42.5%;
     height: 100%;
-    background: url("/assets/img/banggia-01.png") center / cover no-repeat;
+    background: url("./assets/img/banggia-01.png") center / cover no-repeat;
     background-size: 100%;
 }
 
